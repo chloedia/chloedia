@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chloedia
-- 👀 I’m interested in AI and web dev
-- 🌱 I’m currently learning at ESILV machine learning and all kind of cool stuff/ currently self teaching some cyber thinnngs
-- 💞️ I’m looking for any advice towards data science
-- 📫 How to reach me : chloe.daems@edu.devinci.fr
+- 👀 I’m interested in machine and deep learning applied to image, Natural Language and Reinforcement learning.
+- 🌱 I’m currently in my last year @ Centrale Supelec in Mathematics and Data Science.
+- 💞️ Here you can find some of my school and personal project.
+- 📫 How to reach me : chloedaems0@gmail.com
 
 <!---
 chloedia/chloedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
