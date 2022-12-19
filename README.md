@@ -1,3 +1,6 @@
+![background](background.png)
+<center><i>Generated with DALL.E2</i></center>
+
 - 👋 Hi, I’m @chloedia
 - 👀 I’m interested in machine and deep learning applied to image, Natural Language and Reinforcement learning.
 - 🌱 I’m currently in my last year @ Centrale Supelec in Mathematics and Data Science.
