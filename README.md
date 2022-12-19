@@ -11,6 +11,17 @@ I am passionate about technology, travels and art !
 
 Don't hesitate to hit me up if you have questions on one of my project or on my profil. 💻
 
+## Languages & Tools 👩‍💻
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Tools-K3s-informational?style=flat&logo=kubernetes&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=BF40BF)
+
 
 <br><br>
 # 💡 Projects
