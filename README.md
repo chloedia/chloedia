@@ -1,11 +1,13 @@
 ![background](background.png)
 <center><i>Generated with DALL.E2</i></center>
 
-- 👋 Hi, I’m @chloedia
-- 👀 I’m interested in machine and deep learning applied to image, Natural Language and Reinforcement learning.
-- 🌱 I just finished my engineering degree at CentralSupélec and am currently working on RL research with CNRS.
-- 💞️ Here you can find some of my school and personal project.
-- 📫 How to reach me : chloedaems0@gmail.com
+# 👋🏼 Quick Presentation
+
+Hi, I’m @chloedia, but my real name is Chloé Daems ! I’m interested in machine and deep learning applied to image, Natural Language Processing and Reinforcement learning. 
+In my GitHub, you can find some of my university project and personal ones I work on my free time. I just finished my engineering degree at CentralSupélec and am currently working on RL research with CNRS.
+
+I am passionate about technology, travels and art ! 
+
 
 <br><br>
 # 💡 Projects
