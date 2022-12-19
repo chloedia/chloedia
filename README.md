@@ -3,10 +3,13 @@
 
 # 👋🏼 Quick Presentation
 
-Hi, I’m @chloedia, but my real name is Chloé Daems ! I’m interested in machine and deep learning applied to image, Natural Language Processing and Reinforcement learning. 
-In my GitHub, you can find some of my university project and personal ones I work on my free time. I just finished my engineering degree at CentralSupélec and am currently working on RL research with CNRS.
+Hi, I’m **@chloedia**, but my real name is Chloé Daems ! I’m interested in Machine and Deep Learning applied to image, Natural Language Processing and Reinforcement learning.
 
-I am passionate about technology, travels and art ! 
+In my GitHub, you can find some of my university projects and personal ones I worked on in my free time. I just finished my engineering degree at CentraleSupélec and am currently working on RL research with CNRS.
+
+I am passionate about technology, travels and art !
+
+Don't hesitate to hit me up if you have questions on one of my project or on my profil. 💻
 
 
 <br><br>
