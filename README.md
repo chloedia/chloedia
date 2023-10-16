@@ -1,3 +1,4 @@
+![banner image](Couverturegithub.png)
 # 👋🏼 Quick Presentation
 
 Hi, I’m **@chloedia**, but my real name is Chloé Daems ! I’m interested in Machine and Deep Learning applied to image, Natural Language Processing and Reinforcement learning.
