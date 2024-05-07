@@ -3,7 +3,7 @@
 
 Hi, I’m **@chloedia**, but my real name is Chloé Daems ! I’m interested in Machine and Deep Learning applied to image, Natural Language Processing and Reinforcement learning.
 
-In my GitHub, you can find some of my university projects and personal ones I worked on in my free time. I just finished my engineering degree at CentraleSupélec and am currently working on RL research with CNRS.
+In my GitHub, you can find some of my university projects and personal ones I worked on in my free time. I finished my engineering degree at CentraleSupélec and am currently working on open source RAG improvement with Quivr.
 
 I am passionate about technology, travels and art !
 
