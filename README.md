@@ -1,4 +1,4 @@
-![banner image](Couverturegithub.png)
+
 # 👋🏼 Quick Presentation
 
 Hi, I’m **@chloedia**, but my real name is Chloé Daems ! I’m interested in Machine and Deep Learning applied to image, Natural Language Processing and Reinforcement learning.
@@ -23,25 +23,35 @@ Don't hesitate to hit me up if you have questions on one of my project or on my 
 
 <br><br>
 # 💡 Projects
-## ▶️ [Mario bros](https://github.com/VictorGoubet/Mario)
+## ▶️ [Layer Diffuse](https://github.com/chloedia/layerdiffuse)
+![Stars](https://img.shields.io/github/stars/chloedia/layerdiffuse?style=social)
 
-Implementation of a simplified version of the Mario Bros Game. Will be used as a first layer for a reinforcment learning AI in a futur repository
+This repo only implements layer diffusion for foreground generation base on the Transparent Image Layer Diffusion using Latent Transparency paper.
 <p align="center">
-	<a href="https://github.com/VictorGoubet/Mario"><img src="https://github.com/VictorGoubet/Mario/blob/master/screenshot.PNG?raw=true" height="300"></a>
+	<a href="https://github.com/chloedia/layerdiffuse"><img src="https://github.com/chloedia/layerdiffuse/blob/main/assets/archi.png" height="300"></a>
+</p>
+
+## ▶️ [MegaParse](https://github.com/QuivrHQ/MegaParse)
+![Stars](https://img.shields.io/github/stars/QuivrHQ/MegaParse?style=social)
+
+MegaParse is a powerful and versatile parser that can handle various types of documents with ease. Whether you're dealing with text, PDFs, Powerpoint presentations, Word documents MegaParse has got you covered. Focus on having no information loss during parsing.
+<p align="center">
+	<a href="https://github.com/QuivrHQ/MegaParse"><img src="https://raw.githubusercontent.com/QuivrHQ/MegaParse/main/logo.png"></a>
+</p>
+
+## ▶️ [Obsidian Quiz PlugIn](https://github.com/chloedia/Obsidian_Quiz_Generator)
+![Stars](https://img.shields.io/github/stars/chloedia/Obsidian_Quiz_Generator?style=social)
+
+Obsidian plugin designed to transform your notes into dynamic flashcards.
+<p align="center">
+	<a href="https://github.com/chloedia/Obsidian_Quiz_Generator"><img src="https://github.com/chloedia/Obsidian_Quiz_Generator/blob/master/images/logo.png" height="300"></a>
 </p>
 
 ## ▶️ [Connect 4](https://github.com/chloedia/Connect4)
 
 Implementation of an AI for the connect 4 game using min max algorithm, custom heursitic and alpha-beta pruning optimisation. 
 <p align="center">
-	<a href="https://github.com/chloedia/Connect4"><img src="https://camo.githubusercontent.com/9fd563d4876c484136703d33f1bddf11596891626dae2a35ace98b43668fca43/68747470733a2f2f7777772e70696e636c69706172742e636f6d2f7069636469722f6269672f3139362d313936363430355f612d726172652d646973656173652d61732d646566696e65642d62792d7468652d6575726f7065616e2e706e67" height="300"></a>
-</p>
-
-## ▶️ [StarCraft Oracle](https://github.com/VictorGoubet/StarCraftOracle)
-
-Exploration of the SkillCraft dataset extract from StarCraft II players and creation of a model predicting the league of a player.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/StarCraftOracle"><img src="https://github.com/VictorGoubet/StarCraftOracle/blob/master/screenshot.PNG?raw=true" height="300"></a>
+	<a href="https://github.com/chloedia/Connect4"><img src="https://github.com/chloedia/Connect4/blob/main/Connect4.png" height="300"></a>
 </p>
 
 ## ▶️ [PacMan](https://github.com/chloedia/PacMan)
